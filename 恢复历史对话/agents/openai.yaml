@@ -1,0 +1,6 @@
+interface:
+  display_name: "恢复历史对话"
+  short_description: "同步 Codex provider metadata，恢复切换后隐藏的历史会话。"
+  default_prompt: "Use $恢复历史对话 to restore my Codex historical conversations after switching providers."
+policy:
+  allow_implicit_invocation: true
